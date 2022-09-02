@@ -128,7 +128,7 @@ font-weight: 900;
 @media only screen and (max-width: 500px) {
   .login-container {
     display: block;
-    width: 450px;
+    width: 400px;
     margin: 60px auto;
     padding: 70px 0px;
     text-align: center;
